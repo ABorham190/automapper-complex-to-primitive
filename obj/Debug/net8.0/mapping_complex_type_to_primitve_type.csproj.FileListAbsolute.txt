@@ -31,3 +31,4 @@ E:\programming_main\web_API\mapping_complex_type_to_primitve_type\obj\Debug\net8
 E:\programming_main\web_API\mapping_complex_type_to_primitve_type\obj\Debug\net8.0\mapping_complex_type_to_primitve_type.genruntimeconfig.cache
 E:\programming_main\web_API\mapping_complex_type_to_primitve_type\obj\Debug\net8.0\ref\mapping_complex_type_to_primitve_type.dll
 E:\programming_main\web_API\mapping_complex_type_to_primitve_type\bin\Debug\net8.0\AutoMapper.dll
+E:\programming_main\web_API\mapping_complex_type_to_primitve_type\obj\Debug\net8.0\mapping_complex_type_to_primitve_type.sourcelink.json
