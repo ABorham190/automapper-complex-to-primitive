@@ -1,0 +1,6 @@
+@mapping_complex_type_to_primitve_type_HostAddress = http://localhost:5200
+
+GET {{mapping_complex_type_to_primitve_type_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

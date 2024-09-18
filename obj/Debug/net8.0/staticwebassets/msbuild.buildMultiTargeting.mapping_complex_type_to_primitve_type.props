@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mapping_complex_type_to_primitve_type.props" />
+</Project>
